@@ -30,7 +30,8 @@ Data/
 ```
 
 My code works like this : 
-
+Download forlder 
+the run script like 
 ```R
-load_data <- abd
+Rscritp Supplementary_Script_Map.R
 ```
