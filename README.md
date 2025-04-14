@@ -33,5 +33,5 @@ My code works like this :
 Download forlder 
 the run script like 
 ```R
-Rscritp Supplementary_Script_Map.R
+Rscript Supplementary_Script_Map.R
 ```
