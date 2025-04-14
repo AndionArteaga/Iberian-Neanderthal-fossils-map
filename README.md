@@ -41,7 +41,8 @@ install.packages(c("terra", "car", "smoothr", "geodata"))
 ## Data Description
 
 - **Neanderthal fossil sites**  
-  The dataset `IbP_Neanderthal_sites.csv` includes coordinates, chronological attributions, and unique identifiers for each site.
+  The dataset `IbP_Neanderthal_sites.csv` includes all recognised Neanderthal fossil sites within the Iberian Peninsula as of January 2025.
+  Coordinates are presented in the WGS 84 coordinate reference system.
 
 - **Shapefiles**  
   The folder `Data/World_Countries/` contains vector data for modern country boundaries. The script uses these to define geopolitical context in the final map.
