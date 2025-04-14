@@ -30,8 +30,8 @@ Data/
 ```
 
 My code works like this : 
-Download forlder 
-the run script like 
+Download folder 
+Then run the script in Terminal of Rstudio 
 ```R
 Rscript Supplementary_Script_Map.R
 ```
