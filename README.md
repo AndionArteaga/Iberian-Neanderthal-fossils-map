@@ -3,11 +3,11 @@
 
 ## Overview
 
-This repository contains the R script and associated data used to generate a distribution map of Neanderthal fossil sites across the Iberian Peninsula.
+This repository contains the **R script** and associated **datasets** used to generate a distribution map of Neanderthal fossil sites across the Iberian Peninsula.
 
 ![Mapa Iberica](https://github.com/Andion.../Iber funer.../images/mapa.png)
 
-Here's a markdown directory tree for your GitHub project "Data":
+Directory structure:
 
 ```markdown
 ├── Data/
@@ -26,11 +26,11 @@ Here's a markdown directory tree for your GitHub project "Data":
 
 ### How to use it
 Download folder 
-Run the script from Rstudio terminal or Systen cibsike
+Run the script from Rstudio terminal.
 ```R
 Rscript Supplementary_Script_Map.R
 ```
-The script will generate a PDF map file under the Outputs/ directory.
+The script will generate a **PDF map** file under the Outputs/ directory.
 
 ### Requirements
 - **Internet connection** is required to download elevation and administrative boundary data from `geodata`
