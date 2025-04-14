@@ -34,7 +34,7 @@ The script will generate a PDF map file under the Outputs/ directory.
 
 ### Requirements
 - **Internet connection** is required to download elevation and administrative boundary data from `geodata`
-- ```R
+```R
 install.packages(c("terra", "car", "smoothr", "geodata"))
 ```
 
