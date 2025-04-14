@@ -17,3 +17,17 @@ Data/
 ├── README.md.txt
 └── Supplementary_Script_Map.R
 ```
+
+```markdown
+Data/
+├── images/
+├── Outputs/
+│   └── Neanderthal_sites_Map_resultAAB.pdf
+├── README.md
+├── README.md.txt
+└── Supplementary_Script_Map.R
+```
+
+```R
+load_data <- abd
+```
