@@ -5,7 +5,7 @@
 
 This repository contains an **R script** and associated **datasets** developed as supplementary material for research publication "Funerary perspectives of Iberian Neanderthals. Temporal and paleoclimatic insights". The script plots Neanderthal fossil sites on an elevation model of the Iberian Peninsula. While originally designed to visualise the distribution of Neanderthal fossil remains, the script can be easily adapted to plot any dataset with spatial coordinates in the region.
 
-![Mapa Iberica](https://github.com/Andion.../Iber funer.../images/mapa.png)
+<img src="images/expected_outcome.PNG" alt="Expected Outcome" width="400" height="300"/>
 ![Mapa Iberica](images/Expected_outcome.PNG)
 #### 📁 Directory structure:
 
