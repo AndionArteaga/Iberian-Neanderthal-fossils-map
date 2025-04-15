@@ -1,10 +1,9 @@
 # Funerary perspectives of Iberian Neandertals. Temporal and paleoclimatic insights.
-*Script for Mapping Neanderthal Fossil Distribution in the Iberian Peninsula*
+*Script for Mapping Neanderthal fossil Distribution in the Iberian Peninsula*
 
 ## Overview
 
-This repository contains the **R script** and associated **datasets** used to generate a distribution map of Neanderthal fossil sites across the Iberian Peninsula.
-
+This repository contains an **R script** and associated **datasets** developed as supplementary material for research publication "Funerary perspectives of Iberian Neandertals. Temporal and paleoclimatic insights". The script plots Neanderthal fossil sites on an elevation model of the Iberian Peninsula. While originally designed to visualise the distribution of Neanderthal fossil remains, the script can be easily adapted to plot any dataset with spatial coordinates in the region.
 ![Mapa Iberica](https://github.com/Andion.../Iber funer.../images/mapa.png)
 
 Directory structure:
@@ -24,19 +23,6 @@ Directory structure:
 └── README.md
 ```
 
-### How to use it
-Download folder 
-Run the script from Rstudio terminal.
-```R
-Rscript Supplementary_Script_Map.R
-```
-The script will generate a **PDF map** file under the Outputs/ directory.
-
-### Requirements
-- **Internet connection** is required to download elevation and administrative boundary data from `geodata`
-```R
-install.packages(c("terra", "car", "smoothr", "geodata"))
-```
 
 ## Data Description
 
@@ -51,6 +37,26 @@ install.packages(c("terra", "car", "smoothr", "geodata"))
   Using the `geodata` package, the script downloads:
   - Level-1 administrative boundaries for Spain and Portugal  
   - Elevation data at 30 arc-seconds resolution for the Iberian Peninsula
+
+
+### How to use it
+Download folder 
+Run the script from Rstudio terminal.
+```R
+Rscript Supplementary_Script_Map.R
+```
+The script will generate a **PDF map** file under the Outputs/ directory.
+
+#### 📌 Note:
+- This script uses **relative paths** and assumes **no modification** of the folder hierarchy.  
+- Please ensure that the folders `Data/` and `Outputs/` remain in the **same directory** as the script.  
+- Input data should be stored in the `Data/` folder.
+
+### Requirements
+- **Internet connection** is required to download elevation and administrative boundary data from `geodata`
+```R
+install.packages(c("terra", "car", "smoothr", "geodata"))
+```
 
 ## Author
 Andion Arteaga Brieba
