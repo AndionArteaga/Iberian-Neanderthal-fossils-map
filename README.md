@@ -42,7 +42,7 @@ This repository contains an **R script** and associated **datasets** developed a
 
 ## ⚙️ How to use it
 
-Download folder 
+Download folder. 
 Run the script from Rstudio terminal.
 ```R
 Rscript Supplementary_Script_Map.R
