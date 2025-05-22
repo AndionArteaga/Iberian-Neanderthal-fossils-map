@@ -45,7 +45,9 @@ This repository contains an **R script** and associated **datasets** developed a
 ## ⚙️ How to use it
 
 Download ZIP or clone repository. 
+
 Run the script `Supplementary_Script_Map` in Rstudio. 
+
 The script will generate a **PDF map** file under the Outputs/ directory.
 
 #### 📌 Note:
