@@ -22,7 +22,7 @@ This repository contains an **R script** and associated **datasets** developed a
 │   │   └── download_info.txt                     # Source and licensing info
 │   └── IbP_Neanderthal_sites.csv                 # Database of Iberian Neanderthal fossil sites
 ├── Outputs/
-│   └── Neanderthal_sites_Map_resultAAB.pdf       # Expected outcome (PDF)
+│   └── Expected_outcome.pdf                      # Representation of the expected result (pdf)
 ├── images/
 │   └── Neanderthals_Iberian_Peninsula_Map.png    # Figure (image)
 ├── Supplementary_Script_Map.R                    # R script for map generation
