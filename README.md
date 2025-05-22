@@ -5,22 +5,24 @@
 
 This repository contains an **R script** and associated **datasets** developed as supplementary material for research publication "Funerary perspectives of Iberian Neanderthals. Temporal and paleoclimatic insights". The script plots Neanderthal fossil sites on an elevation model of the Iberian Peninsula. While originally designed to visualise the distribution of Neanderthal fossil remains, the script can be easily adapted to plot any dataset with spatial coordinates in the region.
 
-<img src="images/Expected_outcome.PNG" alt="Expected Outcome" width="450" height="350"/>
+<img src="images/Neanderthals_Iberian_Peninsula_Map.PNG" alt="Neanderthals_Iberian_Peninsula_Map" width="450" height="350"/>
 
 #### 📁 Directory structure:
 
 ```markdown
 ├── Data/
-│   ├── World_Countries/                      # Shapefiles for world political boundaries
+│   ├── World_Countries/                          # Shapefiles for world political boundaries
 │   │   ├── TM_WORLD_BORDERS-0.3.dbf
 │   │   ├── TM_WORLD_BORDERS-0.3.prj
 │   │   ├── TM_WORLD_BORDERS-0.3.shp
 │   │   ├── TM_WORLD_BORDERS-0.3.shx
-│   │   └── download_info.txt                 # Source and licensing info
-│   └── IbP_Neanderthal_sites.csv             # Database of Iberian Neanderthal fossil sites
+│   │   └── download_info.txt                     # Source and licensing info
+│   └── IbP_Neanderthal_sites.csv                 # Database of Iberian Neanderthal fossil sites
 ├── Outputs/
-│   └── Neanderthal_sites_Map_resultAAB.pdf   # Final output map (PDF)
-├── Supplementary_Script_Map.R                # R script for map generation
+│   └── Neanderthal_sites_Map_resultAAB.pdf       # Final output map (PDF)
+├── images/
+│   └── Neanderthals_Iberian_Peninsula_Map.png    # Expected outcome (image)
+├── Supplementary_Script_Map.R                    # R script for map generation
 └── README.md
 ```
 
