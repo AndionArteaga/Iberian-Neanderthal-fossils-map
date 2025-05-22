@@ -7,7 +7,7 @@ This repository contains an **R script** and associated **datasets** developed a
 
 <p align="center">
   <img src="https://github.com/AndionArteaga/Iberian-Neanderthal-fossils-map/blob/main/images/Neanderthals_Iberian_Peninsula_Map.png" alt="Neanderthals_Iberian_Peninsula_Map" width="450" height="350"/><br>
-  <em>Figure 1. Map showing the distribution of Neanderthal fossil sites in the Iberian Peninsula, plotted over an elevation model.</em>
+  <em>Figure. Map generated using the Rscript provided in this repository. Site names were added manually.</em>
 </p>
 
 #### 📁 Directory structure:
