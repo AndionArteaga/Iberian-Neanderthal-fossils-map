@@ -1,6 +1,8 @@
 # Iberian Neandertal fossils: Exploring funerary practices in a paleoclimatic context.
 *Script for Mapping Neanderthal fossil Distribution in the Iberian Peninsula*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15683451.svg)](https://doi.org/10.5281/zenodo.15683451)
+
 ## Overview
 
 This repository contains an **R script** and associated **datasets** developed as supplementary material for research publication "Iberian Neandertal fossils: Exploring funerary practices in a paleoclimatic context". The script plots Neanderthal fossil sites on an elevation model of the Iberian Peninsula. While originally designed to visualise the distribution of Neanderthal fossil remains, the script can be easily adapted to plot any dataset with spatial coordinates in the region.
@@ -64,5 +66,9 @@ The script will generate a **PDF map** file under the Outputs/ directory.
 install.packages(c("terra", "car", "smoothr", "geodata"))
 ```
 
-## Author
-Andion Arteaga Brieba. Licence CC-BY-4.0
+## Citation
+If you use this repository in your research, please cite:
+Arteaga-Brieba, A. (2025). Iberian Neandertal fossils: Exploring funerary practices in a paleoclimatic context (v1.0) [Supplementary material]. Zenodo. https://doi.org/10.5281/zenodo.15683451
+
+## Licence 
+CC-BY-4.0
