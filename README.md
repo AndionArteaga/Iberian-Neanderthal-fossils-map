@@ -65,4 +65,4 @@ install.packages(c("terra", "car", "smoothr", "geodata"))
 ```
 
 ## Author
-Andion Arteaga Brieba
+Andion Arteaga Brieba. Licence CC-BY-4.0
