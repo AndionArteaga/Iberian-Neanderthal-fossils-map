@@ -1,7 +1,7 @@
 # Iberian Neandertal fossils: Exploring funerary practices in a paleoclimatic context.
 *Script for Mapping Neanderthal fossil Distribution in the Iberian Peninsula*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15683451.svg)](https://doi.org/10.5281/zenodo.15683451)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16052946.svg)](https://doi.org/10.5281/zenodo.16052946)
 
 ## Overview
 
